@@ -12,13 +12,22 @@ private:
 public:
 	example_struct() = default;
 
-	void operator();
+	void operator()
+	{
+		std::cout << "value: " << m_someByte << std::endl;
+	}
 
-	bool foo();
+	bool foo()
+	{
+		return m_someBool;
+	}
 };
 
 int main()
 {
+	example_struct someVal{ false, 0 };
 	std::cout << "Hello World" << std::endl;
-	return 0;
+	someVal();
+
+	return someVal.foo();
 }
