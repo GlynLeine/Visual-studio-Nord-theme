@@ -1,3 +1,4 @@
+![](https://cdn.discordapp.com/attachments/448616491416551438/811560593525702726/unknown.png)
 [![License-MIT](https://img.shields.io/github/license/GlynLeine/Visual-studio-Nord-theme)](https://github.com/GlynLeine/Visual-studio-Nord-theme/blob/main/LICENSE)
 # Visual studio Nord theme
 Visual studio theme using the Nord color scheme: https://www.nordtheme.com
