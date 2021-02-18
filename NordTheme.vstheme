@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="Nord (3)" GUID="{c2691969-4cb7-4dd7-9da4-2de70e1ec480}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
+  <Theme Name="Nord (4)" GUID="{84407901-2920-4c1f-880b-afb10ff510dd}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF1F2839" />
@@ -111,15 +111,15 @@
       </Color>
       <Color Name="CppTypeSemanticTokenFormat">
         <Background Type="CT_RAW" Source="FF282E38" />
-        <Foreground Type="CT_RAW" Source="FF5188AD" />
+        <Foreground Type="CT_RAW" Source="FF78DEAC" />
       </Color>
       <Color Name="CppRefTypeSemanticTokenFormat">
         <Background Type="CT_RAW" Source="FF282E38" />
-        <Foreground Type="CT_RAW" Source="FF5188AD" />
+        <Foreground Type="CT_RAW" Source="FF78DEAC" />
       </Color>
       <Color Name="CppValueTypeSemanticTokenFormat">
         <Background Type="CT_RAW" Source="FF282E38" />
-        <Foreground Type="CT_RAW" Source="FF5188AD" />
+        <Foreground Type="CT_RAW" Source="FF78DEAC" />
       </Color>
       <Color Name="CppFunctionSemanticTokenFormat">
         <Background Type="CT_RAW" Source="FF282E38" />
@@ -151,11 +151,11 @@
       </Color>
       <Color Name="CppClassTemplateSemanticTokenFormat">
         <Background Type="CT_RAW" Source="FF282E38" />
-        <Foreground Type="CT_RAW" Source="FF5188AD" />
+        <Foreground Type="CT_RAW" Source="FF78DEAC" />
       </Color>
       <Color Name="CppGenericTypeSemanticTokenFormat">
         <Background Type="CT_RAW" Source="FF282E38" />
-        <Foreground Type="CT_RAW" Source="FF5188AD" />
+        <Foreground Type="CT_RAW" Source="FF78DEAC" />
       </Color>
       <Color Name="CppFunctionTemplateSemanticTokenFormat">
         <Background Type="CT_RAW" Source="FF282E38" />
@@ -231,11 +231,11 @@
       </Color>
       <Color Name="class name">
         <Background Type="CT_RAW" Source="FF282E38" />
-        <Foreground Type="CT_RAW" Source="FF5188AD" />
+        <Foreground Type="CT_RAW" Source="FF78DEAC" />
       </Color>
       <Color Name="delegate name">
         <Background Type="CT_RAW" Source="FF282E38" />
-        <Foreground Type="CT_RAW" Source="FF5188AD" />
+        <Foreground Type="CT_RAW" Source="FF78DEAC" />
       </Color>
       <Color Name="enum name">
         <Background Type="CT_RAW" Source="FF282E38" />
@@ -247,7 +247,7 @@
       </Color>
       <Color Name="module name">
         <Background Type="CT_RAW" Source="FF282E38" />
-        <Foreground Type="CT_RAW" Source="FF5188AD" />
+        <Foreground Type="CT_RAW" Source="FF78DEAC" />
       </Color>
       <Color Name="struct name">
         <Background Type="CT_RAW" Source="FF282E38" />
@@ -423,7 +423,7 @@
       </Color>
       <Color Name="Type">
         <Background Type="CT_RAW" Source="FF282E38" />
-        <Foreground Type="CT_RAW" Source="FF5188AD" />
+        <Foreground Type="CT_RAW" Source="FF78DEAC" />
       </Color>
       <Color Name="C/C++ User Keywords">
         <Background Type="CT_RAW" Source="FF282E38" />
