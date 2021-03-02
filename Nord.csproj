@@ -45,6 +45,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <None Include="NordThemeLight.vstheme">
+      <SubType>Designer</SubType>
+    </None>
     <None Include="NordTheme.vstheme">
       <SubType>Designer</SubType>
     </None>

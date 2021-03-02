@@ -1,6 +1,8 @@
 ﻿#include <iostream>
 #include <cstdint>
 
+#define SOME_DEF 1
+
 using byte = std::uint8_t;
 
 struct example_struct
